@@ -1,3 +1,8 @@
-![MultiLingual](https://github-readme-stats-chi-blush.vercel.app/api/top-langs/?username=ss0809&langs_count=8&theme=dark&count-private=true&layout=compact)
+## Top Repository Status
+![getinsta](https://github.com/ss0809/getinsta/actions/workflows/Builder_worker.yaml/badge.svg)
+
+![blackhole](https://github.com/ss0809/blackhole/actions/workflows/Builder_worker.yaml/badge.svg)
+
+![controller](https://github.com/ss0809/controller/actions/workflows/Builder_worker.yaml/badge.svg)
 
 ![Hacktober Badges](https://holopin.me/ss0809)
