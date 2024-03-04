@@ -1,6 +1,8 @@
 ## Top Repository Status
 ### getinsta
 ![getinsta](https://github.com/ss0809/getinsta/actions/workflows/Builder_worker.yaml/badge.svg)
+### Core
+[core](https://github.com/moviemultiverse/core/actions/workflows/test.yml/badge.svg)
 ### blackhole
 ![blackhole](https://github.com/ss0809/blackhole/actions/workflows/Builder_worker.yaml/badge.svg)
 ### controller
