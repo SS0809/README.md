@@ -6,7 +6,7 @@
 ### blackhole
 ![blackhole](https://github.com/ss0809/blackhole/actions/workflows/Builder_worker.yaml/badge.svg)
 ### blackhole_js
-![blackhole_js](https://github.com/ss0809/blackhole_js/actions/workflows/react.yaml/badge.svg)
+![blackhole_js](https://github.com/ss0809/blackhole_js/actions/workflows/react.yml/badge.svg)
 ### controller
 ![controller](https://github.com/ss0809/controller/actions/workflows/Builder_worker.yaml/badge.svg)
 
